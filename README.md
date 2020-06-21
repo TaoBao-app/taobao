@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # taobao
 
 ## Project setup
@@ -22,3 +23,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# taobao
+>>>>>>> e3142011920eb0f57ef855cc1d6a20366497386f
